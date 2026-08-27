@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [1927-sum-game](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 ## Simulation
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
