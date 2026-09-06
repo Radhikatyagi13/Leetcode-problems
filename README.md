@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
