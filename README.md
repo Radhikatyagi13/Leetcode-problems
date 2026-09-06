@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
