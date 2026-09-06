@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1927-sum-game) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
