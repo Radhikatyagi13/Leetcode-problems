@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2029-stone-game-ix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
