@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Counting
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1927-sum-game) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
@@ -181,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
