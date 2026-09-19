@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
