@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/0486-predict-the-winner) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Radhikatyagi13/Leetcode-problems/tree/master/1401-circle-and-rectangle-overlapping) |
